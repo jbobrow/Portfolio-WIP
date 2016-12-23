@@ -17,7 +17,7 @@ defaults:
     type: projects
   values:
     layout: project
-    images: []
+    images:
     website:
     date:
     credits:
